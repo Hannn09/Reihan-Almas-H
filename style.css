@@ -1,0 +1,71 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.landing{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/home.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+nav.black{
+    margin: 0;
+    width: 100% !important;
+    background: rgba(0,0,0,0.8);
+    padding: 10px 50px;
+    height: 65px;
+}
+nav.black a img{
+    height: 25px;
+}
+nav{
+    margin-top: 20px;
+}
+.nav-link{
+    color: #ffffff !important;
+    margin-left: 30px;
+}
+.caption{
+    margin-top: 220px;
+    color: #ffffff;
+}
+.content img{
+    margin-top: -55%;
+    margin-left: 100%;
+    width: 600px;
+}
+.section-title{
+    padding-top: 120px !important;
+}
+/* RECOMENDED WEB */
+.recomended-web{
+    margin-top: 37px;
+    
+}
+.card-logo{
+    margin-bottom: 60px;
+    height: 50px !important;
+}
+.card-job{
+    border-radius: 20px !important;
+    padding-top: 57px;
+}
+.job-title{
+    margin-bottom: 8px;
+    font-weight: 800;
+}
+.price-box{
+    background: rgba(47, 128, 237, 0.2);
+    border-radius: 10px;
+}
+.job-loc{
+    color: grey;
+    margin-bottom: 70px;
+}
+.job-price{
+    font-weight: 800;
+    font-size: 20px;
+    color: lawngreen;
+}
+.circle{
+    border-radius: 50%  !important;
+}
